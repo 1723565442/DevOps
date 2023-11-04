@@ -1,0 +1,2 @@
+devcloud更名为codearts，手册同步更新
+devcloud不在提供debug页面，剔除相关内容
